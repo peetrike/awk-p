@@ -7,6 +7,6 @@
 
     "terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\wsl.exe",
 
-    "awk.mode": "awk",
+    "awk.mode": "gawk",
     "awk.stylisticWarnings.missingSemicolon": false,
 }
