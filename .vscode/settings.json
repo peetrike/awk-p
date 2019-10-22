@@ -5,6 +5,8 @@
     "files.insertFinalNewline": true,
     "files.trimFinalNewlines": true,
 
+    "terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\wsl.exe",
+
     "awk.mode": "awk",
     "awk.stylisticWarnings.missingSemicolon": false,
 }
