@@ -1,0 +1,5 @@
+see on tavaline rida
+@include ./sonad.txt
+   siin reas on alguses tyhikud
+	siin reas on alguses tabulaator
+siin reas    on keskel tyhikud
