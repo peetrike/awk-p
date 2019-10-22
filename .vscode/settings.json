@@ -1,0 +1,10 @@
+{
+    "files.defaultLanguage": "awk",
+    "files.encoding": "utf8",
+    "files.eol": "\n",
+    "files.insertFinalNewline": true,
+    "files.trimFinalNewlines": true,
+
+    "awk.mode": "awk",
+    "awk.stylisticWarnings.missingSemicolon": false,
+}
