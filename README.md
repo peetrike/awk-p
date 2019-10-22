@@ -1,2 +1,3 @@
 # awk-p
-awk programming course sample scripts
+
+This repository contains examples for awk programming course.
