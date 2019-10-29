@@ -1,13 +1,13 @@
-#!/bin/awk -f
+#!/usr/bin/awk -f
 
-  # tyhi rida, unusta see
-NF==0   {NR--; next}
+    # tyhi rida, unusta see
+NF==0 { NR--; next }
 
-  # kommentaari rida, unusta see ka
-$1 ~ /^#/   {NR--; next}
+    # kommentaari rida, unusta see ka
+$1 ~ /^#/   { NR--; next }
 
-  # tais rida, näita valja
+    # tais rida, näita valja
     {print}
 
-  # loeme lopuks tais read kokku
-END {print NR, "rida oli failis, tyhjad viskasime ara" }
+    # loeme lopuks tais read kokku
+END { print NR, "rida oli failis, tyhjad viskasime ara" }

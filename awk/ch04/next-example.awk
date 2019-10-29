@@ -1,5 +1,5 @@
 #!/usr/bin/awk -f
-BEGIN{
+BEGIN {
     print "Contents of", ARGV[1]
 }
 NF == 0 {
