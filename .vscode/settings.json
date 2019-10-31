@@ -1,12 +1,9 @@
 {
-    "files.defaultLanguage": "awk",
-    "files.encoding": "utf8",
-    "files.eol": "\n",
-    "files.insertFinalNewline": true,
-    "files.trimFinalNewlines": true,
+  "files.defaultLanguage": "awk",
+  "files.trimFinalNewlines": true,
 
-    "terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\wsl.exe",
+  "terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\wsl.exe",
 
-    "awk.mode": "gawk",
-    "awk.stylisticWarnings.missingSemicolon": false,
+  "awk.mode": "gawk",
+  "awk.stylisticWarnings.missingSemicolon": false,
 }
