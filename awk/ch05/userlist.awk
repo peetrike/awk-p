@@ -14,6 +14,6 @@ BEGIN {
 #    next
 #}
 $3 > 100 {
-#    close (sort_1)
+    # close (sort_1)
     printf vorming, $1, $3, $4, $5,$6,$7 | sort_2
 }
