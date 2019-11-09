@@ -9,11 +9,13 @@ insert_final_newline = false
 trim_trailing_whitespace = false
 
 [*.json]
+end_of_line = crlf
 indent_style = space
 indent_size = 2
 
 # markdown files
 [*.md]
+end_of_line = crlf
 indent_style = space
 indent_size = 2
 max_line_length = 80
