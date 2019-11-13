@@ -6,4 +6,5 @@ $1 ~ /^@include$/ {
     while ( "cat " failinimi | getline) print
     next
 }
-    {print}
+
+{ print }

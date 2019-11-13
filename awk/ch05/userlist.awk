@@ -8,6 +8,7 @@ BEGIN {
     printf vorming, "User", "UID","GID","Real name","Home dir", "Login Shell"
     printf vorming, "----", "---","---","---------","--------", "-----------"
 }
+
 #$3>999 {
 #    close (sort_2)
 #    printf vorming, $1, $3, $4, $5,$6,$7 | sort_1
