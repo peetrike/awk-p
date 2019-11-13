@@ -16,6 +16,5 @@ BEGIN {
     print "veel kord number:", ++number
     print (number == 13 ? "kolmteist" : "miskit muud")
 }
-    {
-        print $(number-2)
-    }
+
+{ print $(number-2) }

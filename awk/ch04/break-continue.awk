@@ -1,4 +1,4 @@
- {
+{
     print "järgmine rida (" NR ")"
     #i=0 # algväärtustame muutuja iga töödeldava rea jaoks
     while (++i<=5) {
