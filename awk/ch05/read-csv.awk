@@ -1,7 +1,7 @@
 #!/usr/bin/awk -f
+# this solution requires GNU awk
 
 BEGIN {
-#    RS=""; FS="\n"
     FPAT = "([^,]*)|(\"[^\"]+\")"
 	OFS=":::"
 }
